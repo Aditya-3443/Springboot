@@ -1,0 +1,5 @@
+spring core
+spring mvc
+orm
+hibernate
+aop
